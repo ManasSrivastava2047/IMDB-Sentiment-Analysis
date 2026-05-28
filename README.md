@@ -1,4 +1,3 @@
-````md
 # IMDb Sentiment Analysis using RNN and LSTM
 
 This project performs sentiment analysis on IMDb movie reviews using Deep Learning models such as RNN and LSTM.
